@@ -11,7 +11,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "237698581946"
+global.ownernomer = "50931461936"
 global.ownername = "🐉 Limule Solitarus"
 global.ytname = "YT: Deaethgun635"
 global.socialm = "GitHub: Limule3650"
@@ -33,7 +33,7 @@ global.wm = "Limule Solitarus Bot Inc."
 global.link = 'https://whatsapp.com/channel/0029Vafhjw0IXnlonRAQMM2l'
 
 //custom prefix
-global.prefa = ['','!','.','#','&','•']
+global.prefa = ['']
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
